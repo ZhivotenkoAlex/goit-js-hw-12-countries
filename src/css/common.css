@@ -1,0 +1,80 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 60px 20px 20px 20px;
+    font-family: 'Orbitron', sans-serif;
+    background-color: #79abcd;
+    font-size: 30px;
+    color: #78d5c1;
+    text-align: center;
+    text-shadow: 2px 2px 5px black;
+    background-image: url("../img/44174.jpg");
+    background-size: cover;
+}
+
+.pnotify {
+    text-shadow: none;
+}
+
+li {
+    list-style: square;
+}
+
+.title {
+    margin: 0 0 25px 0;
+}
+
+.input-search {
+    margin-bottom: 35px;
+    padding-left: 15px;
+    padding-right: 10px;
+    height: 40px;
+    min-width: 300px;
+    border-radius: 20px;
+    border: transparent;
+    outline: none;
+    box-shadow: 1px 1px 2px black;
+    font-size: 20px;
+}
+
+.js-card-container {
+    text-align: left;
+    background-color: rgba(208, 228, 189, 0.582);
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.list-countries {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.list-countries p {
+    margin: 0;
+}
+
+.country-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+
+.country-info {
+    margin-right: 20px;
+}
+
+.country-title {
+    padding-top: 30px;
+    text-align: center;
+    margin: 0;
+    margin-bottom: 25px;
+    text-align: center;
+    margin: 0;
+    margin-bottom: 25px;
+}

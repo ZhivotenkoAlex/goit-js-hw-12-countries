@@ -50,5 +50,8 @@
         "url": "git+https://github.com/ВАШНИКНАГИТХАБЕ/НАЗВАНИЕВАШЕГОРЕПОЗИТОРИЯ.git"
     },
     "homepage": "https://github.com/ВАШНИКНАГИТХАБЕ/НАЗВАНИЕВАШЕГОРЕПОЗИТОРИЯ",
-    "dependencies": {}
+    "dependencies": {
+        "lodash.debounce": "^4.0.8",
+        "pnotify": "^5.1.2"
+    }
 }

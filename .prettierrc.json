@@ -1,0 +1,23 @@
+{
+    "printWidth": 80,
+    "tabWidth": 2,
+    "useTabs": false,
+    "semi": true,
+    "singleQuote": true,
+    "trailingComma": "all",
+    "bracketSpacing": true,
+    "jsxBracketSameLine": false,
+    "arrowParens": "avoid",
+    "proseWrap": "always",
+    "end_with_newline": true,
+    "brace_style": "collapse,preserve-inline",
+    "max_preserve_newlines": 2,
+    "newline_between_rules": true,
+    "space_around_combinator": true,
+    "space_after_anon_function": true,
+    "wrap_line_length": 100,
+    "css": {
+        "indent_size": 2
+
+    }
+}
